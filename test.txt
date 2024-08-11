@@ -1,0 +1,12 @@
+Hello This is Faiz
+
+I am from sylhet
+
+git verson control
+
+Remote folder/Repository
+
+Remotly = github
+locally = git
+
+I am living in Bangladesh
