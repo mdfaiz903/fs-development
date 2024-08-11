@@ -33,3 +33,15 @@ git push # remote repo
 git status or git dif
 
 ```
+
+# check  commits history
+``` git log ```
+
+To move previous stage (ex: local remo -> staging_area) use command
+
+``` git reset --soft commit_id ```
+
+
+## mode one commit to another
+
+``` git checkout commit_id ```
