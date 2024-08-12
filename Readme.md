@@ -45,3 +45,15 @@ To move previous stage (ex: local remo -> staging_area) use command
 ## mode one commit to another
 
 ``` git checkout commit_id ```
+
+
+## Check branch
+``` git branch ```
+
+## Create new branch
+
+``` git branch branch_name ```
+
+## switch branch one to anther
+
+``` git checkout branch_name ```

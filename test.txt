@@ -15,3 +15,15 @@ I am living in Bangladesh
 I love Bangladesh
 
 I leave office at 5pm
+
+
+{MD FAIZ}
+    did his B.~Sc. in Engineering Science,Computer from \textbf{Northern University of Bangladesh} ,Bangladesh. He did his Thesis Research in Face Recognition applying machine Learning and Computer Vision under the supervision of his undergrad professor, \textbf{Engr. Dr. Md. Ahadullah}, Dhaka, Bangladesh. His Research interest is on Cybersecurity ,Data Science, Artificial Intelligent. 
+
+
+\begin{IEEEbiography}[{\includegraphics[width=1in,height=1.25in,clip,keepaspectratio]{mdahad}}]{MD AHADULLAH}
+	did his B.~Sc. in Engineering Science, Mechanical from \textbf{Chittagong University of Engineering \& Technology} ,Bangladesh. M.Sc. in Applied Mathematics from \textbf{Uttara University}, Bangladesh. He did his PhD in Cybersecurity with applied Cryptography and Data Science at, \textbf{University Putra Malaysia}, Serdang, Malaysia . His Research interest is on Cybersecurity and Cryptography, Applied Image processing and Computer Vision, and Data Science, Artificial Intelligent. 
+\end{IEEEbiography}
+
+Now we are create another branch
+with is featue_footer
