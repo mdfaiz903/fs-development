@@ -35,7 +35,7 @@ git status or git dif
 ```
 
 # check  commits history
-``` git log ```
+``` git log / git log --oneline```
 
 To move previous stage (ex: local remo -> staging_area) use command
 
