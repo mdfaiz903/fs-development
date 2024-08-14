@@ -57,3 +57,10 @@ To move previous stage (ex: local remo -> staging_area) use command
 ## switch branch one to anther
 
 ``` git checkout branch_name ```
+
+## After working new branch then merge main branch using below command
+
+firstly switch main branch
+
+``` git merge branch_naem ```
+
